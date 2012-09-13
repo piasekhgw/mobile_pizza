@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <component>ciasto cienkie</component>
+        <price>8.5</price>
+    </item>
+    <item>
+        <component>ciasto grube</component>
+        <price>10.5</price>
+    </item>
+    <item>
+        <component>oliwki</component>
+        <price>0.4</price>
+    </item>
+    <item>
+        <component>ananas</component>
+        <price>0.5</price>
+    </item>
+    <item>
+        <component>sos pomidorowy</component>
+        <price>1.5</price>
+    </item>
+    <item>
+        <component>krewetki</component>
+        <price>1.0</price>
+    </item>
+    <item>
+        <component>czosnek</component>
+        <price>0.3</price>
+    </item>
+    <item>
+        <component>kalafior</component>
+        <price>0.6</price>
+    </item>
+    <item>
+        <component>sos czosnkowy</component>
+        <price>1.4</price>
+    </item>
+    <item>
+        <component>ogórek kiszony</component>
+        <price>0.6</price>
+    </item>
+    <item>
+        <component>ogórek konserwowy</component>
+        <price>0.4</price>
+    </item>
+    <item>
+        <component>papryczki chili</component>
+        <price>1.2</price>
+    </item>
+    <item>
+        <component>kabanos</component>
+        <price>0.5</price>
+    </item>
+    <item>
+        <component>szynka</component>
+        <price>1.1</price>
+    </item>
+    <item>
+        <component>kebab</component>
+        <price>1.2</price>
+    </item>
+    <item>
+        <component>łosoś</component>
+        <price>0.8</price>
+    </item>
+    <item>
+        <component>kapusta</component>
+        <price>0.4</price>
+    </item>
+    <item>
+        <component>groszek zielony</component>
+        <price>0.3</price>
+    </item>
+    <item>
+        <component>kukurydza</component>
+        <price>0.4</price>
+    </item>
+    <item>
+        <component>banan</component>
+        <price>0.7</price>
+    </item>
+    <item>
+        <component>jabłko</component>
+        <price>0.5</price>
+    </item>
+    <item>
+        <component>figi</component>
+        <price>0.4</price>
+    </item>
+    <item>
+        <component>brokuły</component>
+        <price>1.0</price>
+    </item>
+    <item>
+        <component>owoce morza</component>
+        <price>0.7</price>
+    </item>
+    <item>
+        <component>truskawki</component>
+        <price>0.8</price>
+    </item>
+    <item>
+        <component>pieprz</component>
+        <price>0.2</price>
+    </item>
+    <item>
+        <component>sól</component>
+        <price>0.2</price>
+    </item>
+    <item>
+        <component>cukier</component>
+        <price>0.2</price>
+    </item>
+</items>
